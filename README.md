@@ -53,7 +53,8 @@
 
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/SadhanaShreee/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144517664/7fe8e37f-ff40-4831-90db-8be7e169284e)
+
 
 
 ### Name: SADHANA SHREE B
