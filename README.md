@@ -53,10 +53,11 @@
 
 
 ## Output:
+![Uploading image.png…]()
 
 
-### Name:
-### Register Number: 
+### Name: SADHANA SHREE B
+### Register Number: 212223230177
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
